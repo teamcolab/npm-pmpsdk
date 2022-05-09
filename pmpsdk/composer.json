@@ -1,7 +1,7 @@
 {
   "name": "teamcolab/pmpsdk",
   "type": "library",
-  "description": "PHP client interface for the Public Media Platform",
+  "description": "Colab hosting of PHP client interface for the Public Media Platform",
   "keywords": ["pmp","pubmedia", "publicmediaplatform"],
   "homepage": "https://github.com/teamcolab/pmpsdk",
   "license": "MIT",
