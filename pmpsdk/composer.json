@@ -1,9 +1,9 @@
 {
-  "name": "publicmediaplatform/pmpsdk",
+  "name": "teamcolab/pmpsdk",
   "type": "library",
   "description": "PHP client interface for the Public Media Platform",
   "keywords": ["pmp","pubmedia", "publicmediaplatform"],
-  "homepage": "https://github.com/npr/pmp-php-sdk",
+  "homepage": "https://github.com/teamcolab/pmpsdk",
   "license": "MIT",
   "require": {
     "php": ">=5.5",
